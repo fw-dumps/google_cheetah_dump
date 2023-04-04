@@ -1,0 +1,19 @@
+## cheetah-user 13 TQ2A.230305.008.C1 9619669 release-keys
+- Manufacturer: google
+- Platform: gs201
+- Codename: cheetah
+- Brand: google
+- Flavor: cheetah-user
+- Release Version: 13
+- Kernel Version: 5.10.149
+- Id: TQ2A.230305.008.C1
+- Incremental: 9619669
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/cheetah/cheetah:13/TQ2A.230305.008.C1/9619669:user/release-keys
+- OTA version: 
+- Branch: cheetah-user-13-TQ2A.230305.008.C1-9619669-release-keys
+- Repo: google_cheetah_dump
